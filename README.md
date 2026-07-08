@@ -22,74 +22,42 @@ Java Full Stack Developer | B.Tech Data Science Student
 - 🚀 Building **AcroNexus**
 
 ---
-# 🧩 Tech Stack
-
-### ⚛️ Frontend
-
-<small>
-<p>
-  <img src="https://skillicons.dev/icons?i=react" width="18"/> React
-</p>
-</small>
+## 🧩 Tech Stack
 
 ### 🧠 Backend
-
-<small>
 <p>
-  <img src="https://skillicons.dev/icons?i=spring" width="18"/> Spring
-  &emsp;&emsp;
-  <img src="https://skillicons.dev/icons?i=spring" width="18"/> Spring Boot
-  &emsp;&emsp;
-  🔗 REST APIs
-  &emsp;&emsp;
-  ⚙️ Microservices
+  <img src="https://img.shields.io/badge/Spring-111111?style=flat-square&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-111111?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20API-111111?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microservices-111111?style=flat-square&logo=docker&logoColor=white"/>
 </p>
-</small>
 
 ### 🗄️ Database
-
-<small>
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" width="18"/> MySQL
-  &emsp;&emsp;
-  <img src="https://skillicons.dev/icons?i=postgresql" width="18"/> PostgreSQL
-  &emsp;&emsp;
-  <img src="https://skillicons.dev/icons?i=mongodb" width="18"/> MongoDB
-  &emsp;&emsp;
-  <img src="https://skillicons.dev/icons?i=supabase" width="18"/> Supabase
+  <img src="https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-111111?style=flat-square&logo=supabase&logoColor=white"/>
 </p>
-</small>
 
 ### 💻 Programming Languages
-
-<small>
 <p>
-  <img src="https://skillicons.dev/icons?i=java" width="18"/> Java
-  &emsp;&emsp;
-  <img src="https://skillicons.dev/icons?i=c" width="18"/> C
-  &emsp;&emsp;
-  <img src="https://skillicons.dev/icons?i=cpp" width="18"/> C++
-  &emsp;&emsp;
-  <img src="https://skillicons.dev/icons?i=python" width="18"/> Python
-  &emsp;&emsp;
-  <img src="https://skillicons.dev/icons?i=javascript" width="18"/> JavaScript
+  <img src="https://img.shields.io/badge/C-111111?style=flat-square&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-111111?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=white"/>
 </p>
-</small>
 
 ### 🛠️ Tools
-
-<small>
 <p>
-  <img src="https://skillicons.dev/icons?i=git" width="18"/> Git
-  &emsp;&emsp;
-  <img src="https://skillicons.dev/icons?i=github" width="18"/> GitHub
-  &emsp;&emsp;
-  <img src="https://skillicons.dev/icons?i=postman" width="18"/> Postman
-  &emsp;&emsp;
-  <img src="https://skillicons.dev/icons?i=maven" width="18"/> Maven
-  &emsp;&emsp;
+  <img src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-111111?style=flat-square&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maven-111111?style=flat-square&logo=apachemaven&logoColor=white"/>
 </p>
-</small>
+
+---
 
 ## 🚀 Featured Projects
 
