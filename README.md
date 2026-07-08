@@ -19,40 +19,48 @@
 
 ---
 
-# 🧩 Tech Stack
+## 🧩 Tech Stack
 
-## 🧠 Backend
+### 🧠 Backend
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=java" height="22"/> <b>Java</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=spring" height="22"/> <b>Spring Boot</b>
+</p>
 
-## 🗄️ Database
+### ⚛️ Frontend
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=react" height="22"/> <b>React</b>
+</p>
 
-## 💻 Programming Languages
+### 🗄️ Database
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" height="22"/> <b>MySQL</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgresql" height="22"/> <b>PostgreSQL</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" height="22"/> <b>MongoDB</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=supabase" height="22"/> <b>Supabase</b>
+</p>
 
-## ⚛️ Frontend
+### 💻 Programming Languages
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+<p>
+  <img src="https://skillicons.dev/icons?i=java" height="22"/> <b>Java</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=c" height="22"/> <b>C</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" height="22"/> <b>C++</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" height="22"/> <b>Python</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=javascript" height="22"/> <b>JavaScript</b>
+</p>
 
-## 🧰 Tools
+### 🧰 Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
-
----
+<p>
+  <img src="https://skillicons.dev/icons?i=git" height="22"/> <b>Git</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" height="22"/> <b>GitHub</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" height="22"/> <b>Postman</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=maven" height="22"/> <b>Maven</b>
+</p>
 
 ## 🚀 Featured Projects
 
@@ -62,43 +70,10 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yogita15082006&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogita15082006&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🔥 Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Yogita15082006&theme=tokyonight"/>
-</p>
-
----
-
-## 🏆 Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Yogita15082006&theme=tokyonight&no-frame=true"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yogita15082006&theme=tokyo-night"/>
-</p>
-
----
-
 # 🧠 LeetCode Stats
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/yogitagurj_12345?theme=dark&font=Poppins&ext=contest"/>
+<img src="https://leetcard.jacoblin.cool/yogitagurj_12345?theme=dark&font=Poppins"/>
 </p>
 
 ---
@@ -115,12 +90,6 @@
 ## 💡 Quote
 
 > **"Growth begins where comfort ends. Curiosity drives every step, and every bug solved becomes a lesson earned."** 🚀
-
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Yogita15082006&label=Profile%20Views"/>
-</p>
 
 ---
 
