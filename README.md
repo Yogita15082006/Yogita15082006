@@ -24,51 +24,69 @@ Java Full Stack Developer | B.Tech Data Science Student
 ---
 # 🧩 Tech Stack
 
-### 🧠 Backend
-
-<ul>
-  <li><img src="https://skillicons.dev/icons?i=spring" width="18"> Spring</li>
-  <li><img src="https://skillicons.dev/icons?i=spring" width="18"> Spring Boot</li>
-  <li>🔗 REST APIs</li>
-  <li>⚙️ Microservices</li>
-</ul>
-
 ### ⚛️ Frontend
 
-<ul>
-  <li><img src="https://skillicons.dev/icons?i=html" width="18"> HTML5</li>
-  <li><img src="https://skillicons.dev/icons?i=css" width="18"> CSS3</li>
-  <li><img src="https://skillicons.dev/icons?i=javascript" width="18"> JavaScript</li>
-  <li><img src="https://skillicons.dev/icons?i=react" width="18"> React</li>
-</ul>
+<p>
+  <img src="https://skillicons.dev/icons?i=html" width="18"/> HTML5
+  &emsp;&emsp;
+  <img src="https://skillicons.dev/icons?i=css" width="18"/> CSS3
+  &emsp;&emsp;
+  <img src="https://skillicons.dev/icons?i=javascript" width="18"/> JavaScript
+  &emsp;&emsp;
+  <img src="https://skillicons.dev/icons?i=react" width="18"/> React
+</p>
+
+### 🧠 Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring" width="18"/> Spring
+  &emsp;&emsp;
+  <img src="https://skillicons.dev/icons?i=spring" width="18"/> Spring Boot
+  &emsp;&emsp;
+  🔗 REST APIs
+  &emsp;&emsp;
+  ⚙️ Microservices
+</p>
 
 ### 🗄️ Database
 
-<ul>
-  <li><img src="https://skillicons.dev/icons?i=mysql" width="18"> MySQL</li>
-  <li><img src="https://skillicons.dev/icons?i=postgresql" width="18"> PostgreSQL</li>
-  <li><img src="https://skillicons.dev/icons?i=mongodb" width="18"> MongoDB</li>
-  <li><img src="https://skillicons.dev/icons?i=supabase" width="18"> Supabase</li>
-</ul>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" width="18"/> MySQL
+  &emsp;&emsp;
+  <img src="https://skillicons.dev/icons?i=postgresql" width="18"/> PostgreSQL
+  &emsp;&emsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" width="18"/> MongoDB
+  &emsp;&emsp;
+  <img src="https://skillicons.dev/icons?i=supabase" width="18"/> Supabase
+</p>
 
 ### 💻 Programming Languages
 
-<ul>
-  <li><img src="https://skillicons.dev/icons?i=java" width="18"> Java</li>
-  <li><img src="https://skillicons.dev/icons?i=c" width="18"> C</li>
-  <li><img src="https://skillicons.dev/icons?i=cpp" width="18"> C++</li>
-  <li><img src="https://skillicons.dev/icons?i=python" width="18"> Python</li>
-  <li><img src="https://skillicons.dev/icons?i=javascript" width="18"> JavaScript</li>
-</ul>
+<p>
+  <img src="https://skillicons.dev/icons?i=java" width="18"/> Java
+  &emsp;&emsp;
+  <img src="https://skillicons.dev/icons?i=c" width="18"/> C
+  &emsp;&emsp;
+  <img src="https://skillicons.dev/icons?i=cpp" width="18"/> C++
+  &emsp;&emsp;
+  <img src="https://skillicons.dev/icons?i=python" width="18"/> Python
+  &emsp;&emsp;
+  <img src="https://skillicons.dev/icons?i=javascript" width="18"/> JavaScript
+</p>
 
 ### 🛠️ Tools
 
-<ul>
-  <li><img src="https://skillicons.dev/icons?i=git" width="18"> Git</li>
-  <li><img src="https://skillicons.dev/icons?i=github" width="18"> GitHub</li>
-  <li><img src="https://skillicons.dev/icons?i=postman" width="18"> Postman</li>
-  <li><img src="https://skillicons.dev/icons?i=maven" width="18"> Maven</li>
-</ul>
+<p>
+  <img src="https://skillicons.dev/icons?i=git" width="18"/> Git
+  &emsp;&emsp;
+  <img src="https://skillicons.dev/icons?i=github" width="18"/> GitHub
+  &emsp;&emsp;
+  <img src="https://skillicons.dev/icons?i=postman" width="18"/> Postman
+  &emsp;&emsp;
+  <img src="https://skillicons.dev/icons?i=maven" width="18"/> Maven
+  &emsp;&emsp;
+</p>
+
 ## 🚀 Featured Projects
 
 - 🚀 AcroNexus
