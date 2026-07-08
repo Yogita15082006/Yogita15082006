@@ -23,44 +23,43 @@
 ### 🧠 Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java" height="18"/> <sub>Java</sub> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=spring" height="18"/> <sub>Spring Boot</sub>
+  <img src="https://skillicons.dev/icons?i=java" width="20" valign="middle"/> <sub>Java</sub>&emsp;
+  <img src="https://skillicons.dev/icons?i=spring" width="20" valign="middle"/> <sub>Spring Boot</sub>
 </p>
 
 ### ⚛️ Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react" height="18"/> <sub>React</sub>
+  <img src="https://skillicons.dev/icons?i=react" width="20" valign="middle"/> <sub>React</sub>
 </p>
 
 ### 🗄️ Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" height="18"/> <sub>MySQL</sub> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=postgresql" height="18"/> <sub>PostgreSQL</sub> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mongodb" height="18"/> <sub>MongoDB</sub> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=supabase" height="18"/> <sub>Supabase</sub>
+  <img src="https://skillicons.dev/icons?i=mysql" width="20" valign="middle"/> <sub>MySQL</sub>&emsp;
+  <img src="https://skillicons.dev/icons?i=postgresql" width="20" valign="middle"/> <sub>PostgreSQL</sub>&emsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" width="20" valign="middle"/> <sub>MongoDB</sub>&emsp;
+  <img src="https://skillicons.dev/icons?i=supabase" width="20" valign="middle"/> <sub>Supabase</sub>
 </p>
 
 ### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java" height="18"/> <sub>Java</sub> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=c" height="18"/> <sub>C</sub> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=cpp" height="18"/> <sub>C++</sub> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=python" height="18"/> <sub>Python</sub> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=javascript" height="18"/> <sub>JavaScript</sub>
+  <img src="https://skillicons.dev/icons?i=c" width="20" valign="middle"/> <sub>C</sub>&emsp;
+  <img src="https://skillicons.dev/icons?i=cpp" width="20" valign="middle"/> <sub>C++</sub>&emsp;
+  <img src="https://skillicons.dev/icons?i=java" width="20" valign="middle"/> <sub>Java</sub>&emsp;
+  <img src="https://skillicons.dev/icons?i=python" width="20" valign="middle"/> <sub>Python</sub>&emsp;
+  <img src="https://skillicons.dev/icons?i=javascript" width="20" valign="middle"/> <sub>JavaScript</sub>
 </p>
 
 ### 🧰 Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git" height="18"/> <sub>Git</sub> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" height="18"/> <sub>GitHub</sub> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=postman" height="18"/> <sub>Postman</sub> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=maven" height="18"/> <sub>Maven</sub> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" height="18"/> <sub>VS Code</sub> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=idea" height="18"/> <sub>IntelliJ IDEA</sub>
+  <img src="https://skillicons.dev/icons?i=git" width="20" valign="middle"/> <sub>Git</sub>&emsp;
+  <img src="https://skillicons.dev/icons?i=github" width="20" valign="middle"/> <sub>GitHub</sub>&emsp;
+  <img src="https://skillicons.dev/icons?i=postman" width="20" valign="middle"/> <sub>Postman</sub>&emsp;
+  <img src="https://skillicons.dev/icons?i=maven" width="20" valign="middle"/> <sub>Maven</sub>&emsp;
+  
 </p>
 
 ## 🚀 Featured Projects
