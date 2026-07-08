@@ -26,38 +26,113 @@ Java Full Stack Developer | B.Tech Data Science Student
 
 ### 🧠 Backend
 
-> <img src="https://skillicons.dev/icons?i=spring" width="18"/> <sub>Spring</sub>&emsp;
-> <img src="https://skillicons.dev/icons?i=spring" width="18"/> <sub>Spring Boot</sub>&emsp;
-> 🔗 <sub>REST APIs</sub>&emsp;
-> ⚙️ <sub>Microservices</sub>
+<table>
+<tr>
+<td><img src="https://skillicons.dev/icons?i=spring" width="20"></td>
+<td>Spring</td>
+
+<td width="25"></td>
+
+<td><img src="https://skillicons.dev/icons?i=spring" width="20"></td>
+<td>Spring Boot</td>
+
+<td width="25"></td>
+
+<td>🔗</td>
+<td>REST APIs</td>
+
+<td width="25"></td>
+
+<td>⚙️</td>
+<td>Microservices</td>
+</tr>
+</table>
 
 ### ⚛️ Frontend
 
-> <img src="https://skillicons.dev/icons?i=react" width="18"/> <sub>React</sub>
+<table>
+<tr>
+<td><img src="https://skillicons.dev/icons?i=react" width="20"></td>
+<td>React</td>
+</tr>
+</table>
 
 ### 🗄️ Database
 
-> <img src="https://skillicons.dev/icons?i=mysql" width="18"/> <sub>MySQL</sub>&emsp;
-> <img src="https://skillicons.dev/icons?i=postgresql" width="18"/> <sub>PostgreSQL</sub>&emsp;
-> <img src="https://skillicons.dev/icons?i=mongodb" width="18"/> <sub>MongoDB</sub>&emsp;
-> <img src="https://skillicons.dev/icons?i=supabase" width="18"/> <sub>Supabase</sub>
+<table>
+<tr>
+<td><img src="https://skillicons.dev/icons?i=mysql" width="20"></td>
+<td>MySQL</td>
+
+<td width="25"></td>
+
+<td><img src="https://skillicons.dev/icons?i=postgresql" width="20"></td>
+<td>PostgreSQL</td>
+
+<td width="25"></td>
+
+<td><img src="https://skillicons.dev/icons?i=mongodb" width="20"></td>
+<td>MongoDB</td>
+
+<td width="25"></td>
+
+<td><img src="https://skillicons.dev/icons?i=supabase" width="20"></td>
+<td>Supabase</td>
+</tr>
+</table>
 
 ### 💻 Programming Languages
 
-> <img src="https://skillicons.dev/icons?i=java" width="18"/> <sub>Java</sub>&emsp;
-> <img src="https://skillicons.dev/icons?i=c" width="18"/> <sub>C</sub>&emsp;
-> <img src="https://skillicons.dev/icons?i=cpp" width="18"/> <sub>C++</sub>&emsp;
-> <img src="https://skillicons.dev/icons?i=python" width="18"/> <sub>Python</sub>&emsp;
-> <img src="https://skillicons.dev/icons?i=javascript" width="18"/> <sub>JavaScript</sub>
+<table>
+<tr>
+<td><img src="https://skillicons.dev/icons?i=java" width="20"></td>
+<td>Java</td>
 
-### ⚒️ Tools & IDEs
+<td width="25"></td>
 
-> <img src="https://skillicons.dev/icons?i=git" width="18"/> <sub>Git</sub>&emsp;
-> <img src="https://skillicons.dev/icons?i=github" width="18"/> <sub>GitHub</sub>&emsp;
-> <img src="https://skillicons.dev/icons?i=postman" width="18"/> <sub>Postman</sub>&emsp;
-> <img src="https://skillicons.dev/icons?i=maven" width="18"/> <sub>Maven</sub>&emsp;
-> <img src="https://skillicons.dev/icons?i=vscode" width="18"/> <sub>VS Code</sub>&emsp;
-> <img src="https://skillicons.dev/icons?i=idea" width="18"/> <sub>IntelliJ IDEA</sub>
+<td><img src="https://skillicons.dev/icons?i=c" width="20"></td>
+<td>C</td>
+
+<td width="25"></td>
+
+<td><img src="https://skillicons.dev/icons?i=cpp" width="20"></td>
+<td>C++</td>
+
+<td width="25"></td>
+
+<td><img src="https://skillicons.dev/icons?i=python" width="20"></td>
+<td>Python</td>
+
+<td width="25"></td>
+
+<td><img src="https://skillicons.dev/icons?i=javascript" width="20"></td>
+<td>JavaScript</td>
+</tr>
+</table>
+
+### 🛠️ Tools
+
+<table>
+<tr>
+<td><img src="https://skillicons.dev/icons?i=git" width="20"></td>
+<td>Git</td>
+
+<td width="25"></td>
+
+<td><img src="https://skillicons.dev/icons?i=github" width="20"></td>
+<td>GitHub</td>
+
+<td width="25"></td>
+
+<td><img src="https://skillicons.dev/icons?i=postman" width="20"></td>
+<td>Postman</td>
+
+<td width="25"></td>
+
+<td><img src="https://skillicons.dev/icons?i=maven" width="20"></td>
+<td>Maven</td>
+</tr>
+</table>
 
 ## 🚀 Featured Projects
 
