@@ -1,4 +1,8 @@
-# Hi 👋, I'm Yogita Gurjar
+<h1 align="center">Hi 👋, I'm Yogita Gurjar</h1>
+
+<h3 align="center">
+Java Full Stack Developer | B.Tech Data Science Student
+</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Data+Science+Student;DSA+Enthusiast;Always+Learning+🚀" />
@@ -7,7 +11,7 @@
 ## 👩‍💻 About Me
 
 - 🎓 B.Tech Data Science Student
-- 💻 Aspiring Java Full Stack Developer
+- 💻 Java Full Stack Developer
 - 🌱 Learning: Java, Spring Boot, React, DSA, REST APIs, System Design
 - 🎯 Goal: Software Engineer at a Top Product-Based Company
 
