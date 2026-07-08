@@ -26,18 +26,15 @@ Java Full Stack Developer | B.Tech Data Science Student
 
 ### ⚛️ Frontend
 
+<small>
 <p>
-  <img src="https://skillicons.dev/icons?i=html" width="18"/> HTML5
-  &emsp;&emsp;
-  <img src="https://skillicons.dev/icons?i=css" width="18"/> CSS3
-  &emsp;&emsp;
-  <img src="https://skillicons.dev/icons?i=javascript" width="18"/> JavaScript
-  &emsp;&emsp;
   <img src="https://skillicons.dev/icons?i=react" width="18"/> React
 </p>
+</small>
 
 ### 🧠 Backend
 
+<small>
 <p>
   <img src="https://skillicons.dev/icons?i=spring" width="18"/> Spring
   &emsp;&emsp;
@@ -47,9 +44,11 @@ Java Full Stack Developer | B.Tech Data Science Student
   &emsp;&emsp;
   ⚙️ Microservices
 </p>
+</small>
 
 ### 🗄️ Database
 
+<small>
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" width="18"/> MySQL
   &emsp;&emsp;
@@ -59,9 +58,11 @@ Java Full Stack Developer | B.Tech Data Science Student
   &emsp;&emsp;
   <img src="https://skillicons.dev/icons?i=supabase" width="18"/> Supabase
 </p>
+</small>
 
 ### 💻 Programming Languages
 
+<small>
 <p>
   <img src="https://skillicons.dev/icons?i=java" width="18"/> Java
   &emsp;&emsp;
@@ -73,9 +74,11 @@ Java Full Stack Developer | B.Tech Data Science Student
   &emsp;&emsp;
   <img src="https://skillicons.dev/icons?i=javascript" width="18"/> JavaScript
 </p>
+</small>
 
 ### 🛠️ Tools
 
+<small>
 <p>
   <img src="https://skillicons.dev/icons?i=git" width="18"/> Git
   &emsp;&emsp;
@@ -86,6 +89,7 @@ Java Full Stack Developer | B.Tech Data Science Student
   <img src="https://skillicons.dev/icons?i=maven" width="18"/> Maven
   &emsp;&emsp;
 </p>
+</small>
 
 ## 🚀 Featured Projects
 
