@@ -18,48 +18,49 @@
 - 🚀 Building **AcroNexus**
 
 ---
-
-## 🧩 Tech Stack
+# 🧩 Tech Stack
 
 ### 🧠 Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java" height="22"/> <b>Java</b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=spring" height="22"/> <b>Spring Boot</b>
+  <img src="https://skillicons.dev/icons?i=java" height="18"/> <sub>Java</sub> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=spring" height="18"/> <sub>Spring Boot</sub>
 </p>
 
 ### ⚛️ Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react" height="22"/> <b>React</b>
+  <img src="https://skillicons.dev/icons?i=react" height="18"/> <sub>React</sub>
 </p>
 
 ### 🗄️ Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" height="22"/> <b>MySQL</b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=postgresql" height="22"/> <b>PostgreSQL</b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mongodb" height="22"/> <b>MongoDB</b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=supabase" height="22"/> <b>Supabase</b>
+  <img src="https://skillicons.dev/icons?i=mysql" height="18"/> <sub>MySQL</sub> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgresql" height="18"/> <sub>PostgreSQL</sub> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" height="18"/> <sub>MongoDB</sub> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=supabase" height="18"/> <sub>Supabase</sub>
 </p>
 
 ### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java" height="22"/> <b>Java</b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=c" height="22"/> <b>C</b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=cpp" height="22"/> <b>C++</b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=python" height="22"/> <b>Python</b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=javascript" height="22"/> <b>JavaScript</b>
+  <img src="https://skillicons.dev/icons?i=java" height="18"/> <sub>Java</sub> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=c" height="18"/> <sub>C</sub> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" height="18"/> <sub>C++</sub> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" height="18"/> <sub>Python</sub> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=javascript" height="18"/> <sub>JavaScript</sub>
 </p>
 
 ### 🧰 Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git" height="22"/> <b>Git</b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" height="22"/> <b>GitHub</b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=postman" height="22"/> <b>Postman</b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=maven" height="22"/> <b>Maven</b>
+  <img src="https://skillicons.dev/icons?i=git" height="18"/> <sub>Git</sub> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" height="18"/> <sub>GitHub</sub> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" height="18"/> <sub>Postman</sub> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=maven" height="18"/> <sub>Maven</sub> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" height="18"/> <sub>VS Code</sub> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=idea" height="18"/> <sub>IntelliJ IDEA</sub>
 </p>
 
 ## 🚀 Featured Projects
@@ -89,7 +90,7 @@
 
 ## 💡 Quote
 
-> **"Growth begins where comfort ends. Curiosity drives every step, and every bug solved becomes a lesson earned."** 🚀
+>**"Growth begins where comfort ends. Curiosity drives every step, and every bug solved becomes a lesson earned."** 🚀
 
 ---
 
