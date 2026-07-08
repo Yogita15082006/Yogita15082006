@@ -26,50 +26,49 @@ Java Full Stack Developer | B.Tech Data Science Student
 
 ### 🧠 Backend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=spring" width="18" /> <code>Spring</code>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=spring" width="18" /> <code>Spring Boot</code>&nbsp;&nbsp;&nbsp;&nbsp;
-  🔗 <code>REST APIs</code>&nbsp;&nbsp;&nbsp;&nbsp;
-  ⚙️ <code>Microservices</code>
-</p>
+<ul>
+  <li><img src="https://skillicons.dev/icons?i=spring" width="18"> Spring</li>
+  <li><img src="https://skillicons.dev/icons?i=spring" width="18"> Spring Boot</li>
+  <li>🔗 REST APIs</li>
+  <li>⚙️ Microservices</li>
+</ul>
 
 ### ⚛️ Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html" width="18" /> <code>HTML5</code>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" width="18" /> <code>CSS3</code>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=javascript" width="18" /> <code>JavaScript</code>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=react" width="18" /> <code>React</code>
-</p>
+<ul>
+  <li><img src="https://skillicons.dev/icons?i=html" width="18"> HTML5</li>
+  <li><img src="https://skillicons.dev/icons?i=css" width="18"> CSS3</li>
+  <li><img src="https://skillicons.dev/icons?i=javascript" width="18"> JavaScript</li>
+  <li><img src="https://skillicons.dev/icons?i=react" width="18"> React</li>
+</ul>
 
 ### 🗄️ Database
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" width="18" /> <code>MySQL</code>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=postgresql" width="18" /> <code>PostgreSQL</code>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mongodb" width="18" /> <code>MongoDB</code>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=supabase" width="18" /> <code>Supabase</code>
-</p>
+<ul>
+  <li><img src="https://skillicons.dev/icons?i=mysql" width="18"> MySQL</li>
+  <li><img src="https://skillicons.dev/icons?i=postgresql" width="18"> PostgreSQL</li>
+  <li><img src="https://skillicons.dev/icons?i=mongodb" width="18"> MongoDB</li>
+  <li><img src="https://skillicons.dev/icons?i=supabase" width="18"> Supabase</li>
+</ul>
 
 ### 💻 Programming Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java" width="18" /> <code>Java</code>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=c" width="18" /> <code>C</code>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=cpp" width="18" /> <code>C++</code>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=python" width="18" /> <code>Python</code>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=javascript" width="18" /> <code>JavaScript</code>
-</p>
+<ul>
+  <li><img src="https://skillicons.dev/icons?i=java" width="18"> Java</li>
+  <li><img src="https://skillicons.dev/icons?i=c" width="18"> C</li>
+  <li><img src="https://skillicons.dev/icons?i=cpp" width="18"> C++</li>
+  <li><img src="https://skillicons.dev/icons?i=python" width="18"> Python</li>
+  <li><img src="https://skillicons.dev/icons?i=javascript" width="18"> JavaScript</li>
+</ul>
 
 ### 🛠️ Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git" width="18" /> <code>Git</code>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" width="18" /> <code>GitHub</code>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=postman" width="18" /> <code>Postman</code>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=maven" width="18" /> <code>Maven</code>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
+<ul>
+  <li><img src="https://skillicons.dev/icons?i=git" width="18"> Git</li>
+  <li><img src="https://skillicons.dev/icons?i=github" width="18"> GitHub</li>
+  <li><img src="https://skillicons.dev/icons?i=postman" width="18"> Postman</li>
+  <li><img src="https://skillicons.dev/icons?i=maven" width="18"> Maven</li>
+</ul>
 ## 🚀 Featured Projects
 
 - 🚀 AcroNexus
