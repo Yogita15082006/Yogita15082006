@@ -25,36 +25,39 @@ Java Full Stack Developer | B.Tech Data Science Student
 ## 🧩 Tech Stack
 
 ### 🧠 Backend
+
 <p>
-  <img src="https://img.shields.io/badge/Spring-111111?style=flat-square&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-111111?style=flat-square&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20API-111111?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-111111?style=flat-square&logo=spring&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Spring%20Boot-111111?style=flat-square&logo=springboot&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/REST%20API-111111?style=flat-square&logo=fastapi&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Microservices-111111?style=flat-square&logo=docker&logoColor=white"/>
 </p>
 
 ### 🗄️ Database
+
 <p>
-  <img src="https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=mongodb&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Supabase-111111?style=flat-square&logo=supabase&logoColor=white"/>
 </p>
 
 ### 💻 Programming Languages
+
 <p>
-  <img src="https://img.shields.io/badge/C-111111?style=flat-square&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-111111?style=flat-square&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-111111?style=flat-square&logo=c&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/C++-111111?style=flat-square&logo=cplusplus&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=white"/>
 </p>
 
 ### 🛠️ Tools
+
 <p>
-  <img src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-111111?style=flat-square&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Maven-111111?style=flat-square&logo=apachemaven&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Postman-111111?style=flat-square&logo=postman&logoColor=white"/>&nbsp;
 </p>
 
 ---
